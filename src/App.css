@@ -1,0 +1,52 @@
+em {
+    font-weight: 800;
+}
+
+.pricing {
+    padding-bottom: clamp(50px, 18vh, 100px);
+}
+
+.about {
+    padding-bottom: clamp(50px, 18vh, 100px);
+}
+
+.em {
+    font-weight: 800;
+    font-family: 'Playfair Display';
+    font-size: 40px;
+}
+
+.about {
+    padding-top: clamp(25px, 5vh, 50px);
+}
+
+.test {
+    margin-bottom: clamp(50px, 15vh, 150px);
+}
+
+.footer {
+    margin-bottom: clamp(50px, 10vh, 100px);
+}
+
+.faq {
+    margin-bottom: clamp(50px, 15vh, 150px);
+
+}
+
+.con {
+    margin-bottom: clamp(50px, 15vh, 150px);
+}
+
+.guide {
+    margin-bottom: clamp(50px, 15vh, 150px);
+
+}
+
+.hero {
+    margin-bottom: clamp(37.5px, 15vh, 75px);
+}
+
+.herodown {
+    margin-bottom: clamp(50px, 15vh, 150px);
+
+}
